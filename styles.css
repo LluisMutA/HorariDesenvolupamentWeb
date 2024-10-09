@@ -1,0 +1,25 @@
+
+.desenvolupament-web-client {
+    background-color: #f15350; 
+}
+
+.empresa-emprenedora {
+    background-color: #6bcc1b; 
+}
+
+.desenvolupament-web-servidor {
+    background-color: #3835b8; 
+}
+
+.disseny-interfaces {
+    background-color: #92323a; 
+}
+
+.desplegament-aplicacions {
+    background-color: #ccae55;
+}
+
+td {
+    text-align: center;
+    padding: 10px;
+}
